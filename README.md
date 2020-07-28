@@ -1,6 +1,6 @@
 # Google Image Search Results Quickview (WIP)
 
-> A small JQuery app that replicates Google Images quickview animation when an image is clicked 
+> A script that replicates Google Images quickview animation when an image is clicked 
 
 ---
 
